@@ -23,10 +23,10 @@ The biggest challenge seen is that data needs more parameters and factors. It's 
 ## Results
 
 - Launch Date vs Theater outcome 
-- 1. When manipulating the years, there was not enough launch dates in every year to conclude that overall May is the best date.
-- 2. We also need to fit the data in the market she is really seeking and seeing what we can do to get a clearer picture.
+1. When manipulating the years, there was not enough launch dates in every year to conclude that overall May is the best date.
+2. We also need to fit the data in the market she is really seeking and seeing what we can do to get a clearer picture.
 
 - Outcomes based on Goals
-- 1. We see that we lower amount see to follow a pattern, but there is a surge around 35K. Not a very definitive.
+1. We see that we lower amount see to follow a pattern, but there is a surge around 35K. Not a very definitive.
 
 
