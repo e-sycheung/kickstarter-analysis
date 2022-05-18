@@ -9,12 +9,14 @@ Using tables and charts in Excel to demonstrate the correlation between success 
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
-![]image![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93056479/139631827-0d1b2c83-43dd-4fdd-8607-6b2bef38dddb.png)
+### Theater Outcomes Based on Launch Date
+<img src="https://user-images.githubusercontent.com/93056479/139631827-0d1b2c83-43dd-4fdd-8607-6b2bef38dddb.png" style="width: 738px ; height: 385px">
+
 Based on the date in the chart, the conclusion drawn is that May seems the best time to launch a theater kickstarter.  Look at the graph from our data we can see that theater have a trend to succeed over failure or being canceled except for December where it hit an even point. So with this inital information we can see that concluded that May is a considerable launch date. 
 
-### Analysis of Outcomes Based on Goals
-![]image!![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93056479/139632796-4261fead-60b1-4f19-a88f-ad011ffbaf54.png)
+### The Outcomes Based on Goals
+<img src="https://user-images.githubusercontent.com/93056479/139632796-4261fead-60b1-4f19-a88f-ad011ffbaf54.png" style="width: 738px ; height: 385px">
+
 Used the CountIf() with conditional to understand if the goal had effect on the overall success or failure of the program. Then calculate the percentage to visualize the outcome and impact that the goal really has on the success of a play campaign. 
 
 ### Challenges and Difficulties Encountered
@@ -22,11 +24,11 @@ The biggest challenge seen is that data needs more parameters and factors. It's 
 
 ## Results
 
-- Launch Date vs Theater outcome 
-1. When manipulating the years, there was not enough launch dates in every year to conclude that overall May is the best date.
-2. We also need to fit the data in the market she is really seeking and seeing what we can do to get a clearer picture.
+Launch Date vs Theater outcome 
+- When manipulating the years, there was not enough launch dates in every year to conclude that overall May is the best date.
+- We also need to fit the data in the market she is really seeking and seeing what we can do to get a clearer picture.
 
-- Outcomes based on Goals
-1. We see that we lower amount see to follow a pattern, but there is a surge around 35K. Not a very definitive.
+Outcomes based on Goals
+- We see that we lower amount see to follow a pattern, but there is a surge around 35K. Not a very definitive.
 
 
